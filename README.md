@@ -5,7 +5,7 @@ Alumna: **Africa Abad**
 ## Ejercicio Practico 2
 
 
-1. Realizar un programa que utilice un dispositivo i2c como por ejemplo alguno de los  siguientes  
+1. Realizar un programa que utilice un dispositivo i2c. 
  
  1. Foto del montaje 
  ![](connexions_bpm.png)
